@@ -124,12 +124,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Gagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gagansuryawanshi1508-star&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 
 * 📧 [gagansuryawanshi1508@gmail.com](mailto:gagansuryawanshi1508@gmail.com)
